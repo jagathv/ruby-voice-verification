@@ -1,4 +1,4 @@
-# voice-verification
+# ruby-voice-verification
 A Ruby interface for easier use of MS Cognitive's Speech API
 
 # Usage:
