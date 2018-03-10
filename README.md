@@ -1,5 +1,5 @@
-# voice-verification
-a short Ruby class to interface with the Microsoft Cognitive API's speech verification capabilities
+# ruby-voice-verification
+A Ruby interface for easier use of MS Cognitive's Speech API
 
 # Usage:
 Instantiate a Recognizer object with your API key. Then, you can create a speech
